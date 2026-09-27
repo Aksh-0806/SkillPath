@@ -75,7 +75,6 @@ SkillPath currently provides guidance for **8 career domains**:
 
 ---
 
-## 📂 Project Structure
 
 ## 📂 Project Structure
 
