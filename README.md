@@ -85,16 +85,7 @@ SkillPath/
 ├── script.js
 └── README.md
 
-## 📂 Project Structure
 
-```text
-SkillPath/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
 
 ## 👥 Team & Responsibilities
 
