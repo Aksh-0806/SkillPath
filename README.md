@@ -85,10 +85,38 @@ SkillPath/
 ├── script.js
 └── README.md
 
+## 📂 Project Structure
+
+```text
+SkillPath/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
 ## 👥 Team & Responsibilities
 
-| Member | Pages / Modules | Key Deliverables |
-|---|---|---|
-| **Akshaya.V** | `index.html` | Website structure · Navigation bar · Home page · Career domain sections |
-| **Akshaya.A** | `style.css` | Website design · Domain cards · Responsive layout · Animations · Dark mode |
-| **Dharshana.M.S** | `script.js` | Career domain data · Search functionality · Dynamic content · Skill progression |
+<table>
+  <tr>
+    <th>Member</th>
+    <th>Pages / Modules</th>
+    <th>Key Deliverables</th>
+  </tr>
+  <tr>
+    <td><b>Akshaya.V</b></td>
+    <td><code>index.html</code></td>
+    <td>Website structure · Navigation bar · Home page · Career domain sections</td>
+  </tr>
+  <tr>
+    <td><b>Akshaya.A</b></td>
+    <td><code>style.css</code></td>
+    <td>Website design · Domain cards · Responsive layout · Animations · Dark mode</td>
+  </tr>
+  <tr>
+    <td><b>Dharshana.M.S</b></td>
+    <td><code>script.js</code></td>
+    <td>Career domain data · Search functionality · Dynamic content · Skill progression</td>
+  </tr>
+</table>
