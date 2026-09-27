@@ -77,6 +77,8 @@ SkillPath currently provides guidance for **8 career domains**:
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
 ```text
 SkillPath/
 │
@@ -84,8 +86,7 @@ SkillPath/
 ├── style.css
 ├── script.js
 └── README.md
-
-
+```
 
 ## 👥 Team & Responsibilities
 
