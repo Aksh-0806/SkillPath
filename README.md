@@ -84,3 +84,16 @@ SkillPath/
 ├── style.css
 ├── script.js
 └── README.md
+## 👥 Team & Responsibilities
+
+| Member | Pages / Sections | Key Deliverables |
+|---|---|---|
+| Akshaya.V | `index.html` | Website structure, Home page, Navigation bar and Hero section |
+| Akshaya.A | `style.css` | Website design, Responsive layout, Domain cards and Dark mode styling |
+| Dharshana.M.S | `script.js` | Career domain data, Search functionality, Learning roadmaps and Interactive features |
+
+---
+
+**Project:** SkillPath – Career Skill Development  
+**Department:** Computer Science and Engineering  
+**College:** Arunachala College of Engineering for Women
